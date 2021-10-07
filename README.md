@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akanksha 
-- 👀 I’m interested in data sicence and applied NLP in healthcare
+- 👀 I’m interested in data science and applied NLP in healthcare
 - 🌱 Graduate student at King's College London
 - 📫 Reach me at aeroap.comp@gmail.com
 
